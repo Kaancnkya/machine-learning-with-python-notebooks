@@ -1,4 +1,4 @@
-# Machine Learning with Python Notebooks
+# Data Science with Python Notebooks
 
 Welcome to my personal machine learning journey!  
 This repository contains hands-on Jupyter Notebooks that I’ve created while learning Data Science and Machine Learning using Python.
@@ -18,7 +18,7 @@ Each notebook covers a different concept or dataset, from NumPy basics to Pandas
 
 ## 📚 Technologies Used
 
-- Python 3.x
+- Python
 - Jupyter Notebook
 - NumPy
 - Pandas
